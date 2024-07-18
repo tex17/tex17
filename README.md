@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+![Dmytro Baida's LeetCode stats dark](https://leetcode-badge-sage.vercel.app/badge/tex17?theme=dark&bgColor=282828)
 <!--
 **tex17/tex17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
