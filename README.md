@@ -1,5 +1,4 @@
 ## Hi there 👋
-Редкий кодинг:
 
 ![ Sometimes it happens ](https://leetcode-badge-sage.vercel.app/badge/tex17?theme=dark&bgColor=282828)
 <!--
